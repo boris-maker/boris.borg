@@ -3,19 +3,19 @@
 
 - 🔭 I’m currently working on [Uncreating Humans Program](hypergeist.org)
 
-- 🌱 I’m currently learning **XIXth cent german ideology**
+- 🌱 I’m currently harving  **Social onthology**
 
 - 👯 I’m looking to collaborate on **anti art**
 
-- 🤝 I’m looking for help with [deepwebgallery](deepwebgallery.org)
+- 🤝 I’m looking for help with Costo politco de la organizacion emocional
 
-- 👨‍💻 All of my projects are available at [github.](github.)
+- 👨‍💻 All of my projects will be available at [https://github.com/boris-maker]([github.](https://github.com/boris-maker))
 
 - 📝 I regularly write articles on [deepwebgallery.org](deepwebgallery.org)
 
 - 💬 Ask me about **nothing**
 
-- 📫 How to reach me **trashwerk@gmail.com**
+- 📫 How to reach me **trashwerk@gmail.com** and being descrete.
 
 - 📄 Know about my experiences [extralink.com](extralink.com)
 
@@ -32,7 +32,6 @@
 social modling, 
 multi-agent systems
 
-Costo pokitco de la organizacion emocional
-> sistemas frios de toma de decision
+
 
 Formas de organizacion post-institucional
