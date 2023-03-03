@@ -1,4 +1,4 @@
-<h1 align="center">Hi ⛓, I'm Boris.B0rg</h1>
+<h1>Hi ⛓, I'm Boris.B0rg</h1>
 <h3 align="center">Non subjective singular performance on the HyperGeist</h3>
 
 - 🔭 I’m currently working on [Uncreating Humans Program (UHP)](guilliotine.xyz)
@@ -36,4 +36,4 @@ multi-agent systems
 
 
 
-experimentando en Formas de organizacion post-institucional
+<h1 align="center"> experimentando en Formas de organizacion post-institucional
