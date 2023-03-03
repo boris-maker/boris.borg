@@ -1,11 +1,14 @@
 <h1>Hi ⛓, I'm Boris.B0rg</h1>
 <h3>Non subjective singular performance on the HyperGeist</h3>
 
-- 🔭 I’m currently working on [Uncreating Humans Program (UHP)](guilliotine.xyz)
 
-- 🌱 I’m currently harving  **Social onthology and identity substraction**
+
 
 - ⚙️ Founder and Council Member at [DeepWebGallery] (https://deepwebgallery.org/)
+
+- 🔭 I’m currently working on [Uncreating Humans Program (UHP)](guilliotine.xyz)
+
+- 🌱 I’m harving  **Social onthology and identity substraction**
 
 - ⚔️ I’m looking to collaborate on **anti art operations**
 
