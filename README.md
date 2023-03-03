@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Boris.B0rg</h1>
+<h1 align="center">Hi ⛓, I'm Boris.B0rg</h1>
 <h3 align="center">Non subjective singular performance on the HyperGeist</h3>
 
-- 🔭 I’m currently working on [Uncreating Humans Program](hypergeist.org)
+- 🔭 I’m currently working on [Uncreating Humans Program](guilliotine.xyz)
 
 - 🌱 I’m currently harving  **Social onthology**
 
@@ -17,16 +17,16 @@
 
 - 📫 How to reach me **trashwerk@gmail.com** and being descrete.
 
-- 📄 Know about my experiences [extralink.com](extralink.com)
+- 📄 Documentation Master at Mother of the Devs [link soon]()
 
-- ⚡ Fun fact **ts!**
+- ⚡ Fun fact **i know how to end modernity**
 
 
 
 +++Social onthology++++
 
 
-/// working on 
+/// for ever working on 
 
 > cognitive arquitecture, 
 social modling, 
@@ -34,4 +34,4 @@ multi-agent systems
 
 
 
-Formas de organizacion post-institucional
+experimentando en Formas de organizacion post-institucional
