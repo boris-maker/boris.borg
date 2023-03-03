@@ -9,7 +9,7 @@
 
 - ⚔️ I’m looking to collaborate on **anti art operations**
 
-- 💊 I’m looking for help with the costo politco de la organizacion emocional
+- 🔬 I’m looking for help with the costo politco de la organizacion emocional
 
 - ⚒ All of the projects will be available to download, copy and/or reproduce at [https://github.com/boris-maker]([github.](https://github.com/boris-maker))
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **nothing**
 
-- 📫 How to reach me **trashwerk@gmail.com** and being descrete.
+- 🛰 How to reach me **trashwerk@gmail.com** .
 
 - 📄 Documentation Master at Mother of the Devs [link soon]()
 
