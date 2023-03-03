@@ -1,5 +1,5 @@
 <h1>Hi ⛓, I'm Boris.B0rg</h1>
-<h3 align="center">Non subjective singular performance on the HyperGeist</h3>
+<h3>Non subjective singular performance on the HyperGeist</h3>
 
 - 🔭 I’m currently working on [Uncreating Humans Program (UHP)](guilliotine.xyz)
 
