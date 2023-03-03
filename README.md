@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [Uncreating Humans Program](guilliotine.xyz)
 
-- 🌱 I’m currently harving  **Social onthology**
+- 🌱 I’m currently harving  **Social onthology and identity substraction**
 
-- 👯 I’m looking to collaborate on **anti art**
+- 👯 I’m looking to collaborate on **anti art operations**
 
-- 🤝 I’m looking for help with Costo politco de la organizacion emocional
+- 🤝 I’m looking for help with the costo politco de la organizacion emocional
 
-- 👨‍💻 All of my projects will be available at [https://github.com/boris-maker]([github.](https://github.com/boris-maker))
+- 👨‍💻 All of the projects will be available to download, copy and/or reproduce at [https://github.com/boris-maker]([github.](https://github.com/boris-maker))
 
-- 📝 I regularly write articles on [deepwebgallery.org](deepwebgallery.org)
+- 📝 I regularly write articles on Cognitive Arquitecture for hypergeist.org
 
 - 💬 Ask me about **nothing**
 
