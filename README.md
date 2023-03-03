@@ -1,15 +1,17 @@
 <h1 align="center">Hi ⛓, I'm Boris.B0rg</h1>
 <h3 align="center">Non subjective singular performance on the HyperGeist</h3>
 
-- 🔭 I’m currently working on [Uncreating Humans Program](guilliotine.xyz)
+- 🔭 I’m currently working on [Uncreating Humans Program (UHP)](guilliotine.xyz)
 
 - 🌱 I’m currently harving  **Social onthology and identity substraction**
 
-- 👯 I’m looking to collaborate on **anti art operations**
+- ⚙️ Founder and Council Member at [DeepWebGallery] (https://deepwebgallery.org/)
 
-- 🤝 I’m looking for help with the costo politco de la organizacion emocional
+- ⚔️ I’m looking to collaborate on **anti art operations**
 
-- 👨‍💻 All of the projects will be available to download, copy and/or reproduce at [https://github.com/boris-maker]([github.](https://github.com/boris-maker))
+- 💊 I’m looking for help with the costo politco de la organizacion emocional
+
+- ⚒ All of the projects will be available to download, copy and/or reproduce at [https://github.com/boris-maker]([github.](https://github.com/boris-maker))
 
 - 📝 I regularly write articles on Cognitive Arquitecture for hypergeist.org
 
@@ -19,7 +21,7 @@
 
 - 📄 Documentation Master at Mother of the Devs [link soon]()
 
-- ⚡ Fun fact **i know how to end modernity**
+- 🔑 Fun fact **i know how to end modernity**
 
 
 
