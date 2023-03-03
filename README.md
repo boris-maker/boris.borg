@@ -33,10 +33,12 @@
 
 /// for ever working on 
 
-> cognitive arquitecture, 
+> <h1 align="center"> cognitive arquitecture, 
 social modling, 
 multi-agent systems
 
 
 
-<h1 align="center"> experimentando en Formas de organizacion post-institucional
+experimentando en Formas de organizacion post-institucional
+
+<h1 align="center"> 
